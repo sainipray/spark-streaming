@@ -5,7 +5,7 @@ Spark Streaming
 Overview
 ========
 
-- In this tutorial we are showing spark streaming from txt file that reads spark dynamically
+- In this tutorial, I'm showing spark streaming from txt file that reads spark dynamically
 
 Requirements
 ============
@@ -28,7 +28,7 @@ Execution
 
 - Now execute file.py using python that will create log text file in folder and spark will read as streaming ::
 
-  python file.py
+   python file.py
 
 
 Output
